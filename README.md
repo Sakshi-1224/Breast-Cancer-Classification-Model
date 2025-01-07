@@ -7,7 +7,7 @@ This project is a machine learning-based classification model designed to predic
 - Includes exploratory data analysis (EDA) and data preprocessing steps.
 - Evaluates model performance with metrics like accuracy.
 # Dataset
-- Source: Mention the dataset source (Breast Cancer Wisconsin (Diagnostic) Data Set).
+- Source: Breast Cancer Wisconsin (Diagnostic) Data Set.
 - Description: The dataset contains features extracted from breast cancer cell images, such as:
   - Mean radius
   - Texture
